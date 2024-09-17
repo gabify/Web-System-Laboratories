@@ -1,0 +1,21 @@
+.hero-1{
+    background-image:url('assets/heroimage1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hero-2{
+    background-image:url('assets/heroimage2.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hero-3{
+    background-image:url('assets/heroimage3.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
